@@ -1,0 +1,7 @@
+{
+  "profile": "full",
+  "synthetic": false,
+  "real_full_analysis": true,
+  "experimental_results_not_grid_safety_evidence": true,
+  "n_scored_rows": 112640
+}

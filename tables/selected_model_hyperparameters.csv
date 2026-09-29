@@ -1,0 +1,5 @@
+model,alpha,n_estimators,learning_rate,num_leaves,min_child_samples,lr,epochs,validation_nWIS
+arx,100.0,,,,,,,
+lgbm,,400.0,0.03,15.0,40.0,,,
+gru,,,,,,0.001,9.0,1.12686122704307
+transformer,,,,,,0.001,10.0,1.1086284746245338
