@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "Machine Learning for German Redispatch Forecasting under Data Delays and Temporal Distribution Shift"
+type: software
+authors:
+  - family-names: Shamim
+    given-names: Faraz
+  - family-names: Shamim
+    given-names: Faris
+version: 1.0.0
+date-released: 2026-09-29
+repository-code: "https://github.com/faraz-shamim/german-redispatch-ml/"
+license: MIT
